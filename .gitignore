@@ -2,6 +2,16 @@
 __pycache__/
 *.py[cod]
 *$py.class
+assignment01/test_catvnoncat.h5
+assignment01/train_catvnoncat.h5
+assignment02/planar_utils.py
+assignment02/testCases.py
+assignment03/dnn_app_utils.py
+assignment03/dnn_utils.py
+assignment03/test_catvnoncat.h5
+assignment03/testCases.py
+assignment03/train_catvnoncat.h5
+.DS_Store
 
 # C extensions
 *.so
